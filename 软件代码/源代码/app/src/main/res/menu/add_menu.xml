@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addwork"
+        android:title="添加作业" />
+    <item
+        android:id="@+id/addnote"
+        android:title="添加通知" />
+    <item
+        android:id="@+id/addclass"
+        android:title="添加班级" />
+</menu>
